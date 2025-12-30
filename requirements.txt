@@ -1,0 +1,4 @@
+dearpygui
+psutil
+watchdog
+requests
