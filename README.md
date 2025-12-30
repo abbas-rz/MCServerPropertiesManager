@@ -8,6 +8,10 @@
 ![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20macOS%20%7C%20Linux-lightgrey)
 
 ---
+<img width="1215" height="807" alt="image" src="https://github.com/user-attachments/assets/a7e34476-e04b-4f12-a70b-87fa86ab597d" />
+<img width="1210" height="791" alt="image" src="https://github.com/user-attachments/assets/680d3e28-4bd2-4a69-8f67-c9bcdb668216" />
+
+
 
 ## ✨ Features
 
